@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: customer-management
+    main:
+        web-application-type: servlet
+
+server:
+    port: 8080
